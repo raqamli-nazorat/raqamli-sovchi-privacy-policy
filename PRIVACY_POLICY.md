@@ -4,7 +4,7 @@ Effective date: 2026-08-04
 
 Developer: Raqamli Nazorat LLC
 
-Contact: support@raqamlisovchi.uz
+Contact: raqamlinazorat3@gmail.com
 
 This Privacy Policy explains how the Raqamli Sovchi mobile application collects, uses, stores, protects, and deletes user information.
 
@@ -216,7 +216,7 @@ security, abuse-prevention, or dispute reasons may remain for a limited period.
 
 If you cannot access the app, you may send an account deletion request to:
 
-support@raqamlisovchi.uz
+raqamlinazorat3@gmail.com
 
 Include the phone number, email address, or other account identifier connected to your Raqamli Sovchi account so we can verify ownership.
 
@@ -299,4 +299,4 @@ For privacy questions, account deletion, or data requests, contact:
 
 Raqamli Nazorat LLC
 
-Email: support@raqamlisovchi.uz
+Email: raqamlinazorat3@gmail.com

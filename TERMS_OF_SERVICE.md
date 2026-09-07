@@ -2,7 +2,7 @@
 
 Effective date: 2026-09-07
 Developer: Raqamli Nazorat LLC
-Contact: support@raqamlisovchi.uz
+Contact: raqamlinazorat3@gmail.com
 
 These Terms of Service govern use of the Raqamli Sovchi mobile application,
 backend services, and related features. By creating an account or using the
@@ -121,4 +121,4 @@ mandatory local law requires otherwise. Contact us before raising a formal
 dispute so we can review the issue:
 
 Raqamli Nazorat LLC
-Email: support@raqamlisovchi.uz
+Email: raqamlinazorat3@gmail.com
